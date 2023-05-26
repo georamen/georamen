@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @georamen
-- 👀 I’m interested in completing my Udacity Data analytics with R nanodegree.
+- 👀 I’m interested in Bayesian Analytics.
 - 🌱 I’m currently learning how to use and work collaboratively using GitHub.
